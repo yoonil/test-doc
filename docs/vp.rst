@@ -1,4 +1,5 @@
-H1 -- VP Creation and Verification
+VP Creation and Verification
+===================================
 
 Did-endpoint performs the verifier function for verifying VP (Verifiable Presentation) created and submitted by the holder. Hereinafter, did-endpoint is called verifier.
 

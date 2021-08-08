@@ -1,4 +1,5 @@
-H1 -- VC Issuance
+VC Issuance
+====================================
 
 Did-endpoint performs the issuer function for issuing the holder's VC (Verifiable Credential). Hereinafter, did-endpoint is referred to as an issuer.
 
